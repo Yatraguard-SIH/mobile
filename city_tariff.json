@@ -1,0 +1,11 @@
+{
+  "cities": [
+    {
+      "city_id": "DEL_01",
+      "city_name": "New Delhi",
+      "base_fare": 50.00,
+      "per_km_rate": 15.00,
+      "waiting_charge_per_min": 2.50
+    }
+  ]
+}
